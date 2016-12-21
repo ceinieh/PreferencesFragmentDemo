@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PreferenceFragmentDemo</string>
+    <string name="prefsUseLocalDataDescription">Demo Data</string>
+    <string name="prefsUseLocalDataTitle">User Preferences </string>
+    <string name="prefsIdAndSearch">Preferences Search </string>
+    <string name="prefsId">Preferences Id</string>
+    <string name="prefsUI">User Preferences</string>
+
+</resources>
